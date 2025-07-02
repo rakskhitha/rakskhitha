@@ -17,7 +17,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="rakshitha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshitha&show_icons=true&locale=en" alt="rakshitha" /></p>
 <br>
 </div>
 <br>
