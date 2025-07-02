@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🌱 I have undergone intership on **Java Full Stack web development**
+- 🌱 I have undergone Internship on **Java Full Stack web development**
 
 - 👨‍💻 I’m currently working at Parvam - **technical trainee engineer*
   
