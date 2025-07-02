@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working at Parvam - **technical trainee engineer*
   
-- 💻 All of my projects are available on [GitHub](https://github.com/rakskhitha_gec_2025)
+- 💻 All of my projects are available on [GitHub](https://github.com/rakskhitha/gec_parvam_2025)
 
 - 💬 Ask me about **Programming, Cyber Security**
 
